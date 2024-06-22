@@ -1,1 +1,1 @@
-elastic/filebeat:8.14.1
+apache/apisix:3.5.0-debian
