@@ -1,1 +1,2 @@
-apache/apisix:3.5.0-debian
+docker.io/volcanosh/vc-scheduler:latest
+docker.io/volcanosh/vc-controller-manager:latest
