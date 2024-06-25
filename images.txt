@@ -1,1 +1,2 @@
-fluidcloudnative/fluid-crd-upgrader:v1.0.0-31f5433
+alluxio/alluxio-dev:2.9.0
+fluidcloudnative/init-users:v0.9.0
