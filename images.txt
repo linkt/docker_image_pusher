@@ -1,1 +1,10 @@
-docker.io/volcanosh/vc-webhook-manager:latest
+fluidcloudnative/alluxioruntime-controller:v1.0.0-31f5433
+fluidcloudnative/dataset-controller:v1.0.0-31f5433
+fluidcloudnative/efcruntime-controller:v1.0.0-31f5433
+fluidcloudnative/application-controller:v1.0.0-31f5433
+fluidcloudnative/goosefsruntime-controller:v1.0.0-31f5433
+fluidcloudnative/jindoruntime-controller:v1.0.0-31f5433
+fluidcloudnative/juicefsruntime-controller:v1.0.0-31f5433
+fluidcloudnative/thinruntime-controller:v1.0.0-31f5433
+fluidcloudnative/vineyardruntime-controller:v1.0.0-31f5433
+fluidcloudnative/fluid-webhook:v1.0.0-31f5433
