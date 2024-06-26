@@ -1,2 +1,2 @@
-alluxio/alluxio-dev:2.9.0
-fluidcloudnative/init-users:v0.9.0
+juicedata/juicefs-fuse:ce-v1.1.0-rc1
+juicedata/juicefs-fuse:ee-4.9.16
