@@ -1,9 +1,7 @@
-gcr.io/ml-pipeline/frontend
 docker.io/kubeflowkatib/mxnet-mnist:v0.16.0
 docker.io/kubeflowkatib/enas-cnn-cifar10-cpu:v0.16.0
 docker.io/kubeflowkatib/pytorch-mnist-cpu:v0.16.0
 docker.io/kubeflowkatib/pytorch-mnist-cpu:v0.16.0
-$VOLUME_VIEWER_IMAGE
 ghcr.io/dexidp/dex:v2.36.0
 quay.io/jetstack/cert-manager-controller:v1.12.2
 quay.io/jetstack/cert-manager-cainjector:v1.12.2
