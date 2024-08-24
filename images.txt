@@ -1,2 +1,2 @@
-nvidia/cuda:12.2.0-devel-centos7
-nvidia/cuda:12.2.0-runtime-centos7
+nvidia/cuda:12.3.0-devel-centos7
+nvidia/cuda:12.3.0-runtime-centos7
