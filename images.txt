@@ -1,1 +1,2 @@
-waggle/plugin-base:1.1.1-ml
+nvidia/cuda:12.2.0-devel-centos7
+nvidia/cuda:12.2.0-runtime-centos7
