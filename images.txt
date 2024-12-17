@@ -1,1 +1,1 @@
-mpioperator/kubectl-delivery:latest
+golang:1.18
