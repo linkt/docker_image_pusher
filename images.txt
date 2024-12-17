@@ -1,1 +1,1 @@
-apache/apisix:3.10.0-debian
+kubectl-delivery:latest
