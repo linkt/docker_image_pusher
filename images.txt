@@ -1,1 +1,1 @@
-juicedata/juicefs-fuse:ce-v1.1.2
+fluidcloudnative/nfs:v0.1
