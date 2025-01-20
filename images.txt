@@ -1,1 +1,1 @@
-docker.io/library/ubuntu:22.04
+kubeovn/kube-ovn-base:v1.11.3
