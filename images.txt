@@ -1,1 +1,1 @@
-fluidcloudnative/nfs:v0.1
+docker/dockerfile:experimental
