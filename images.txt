@@ -1,1 +1,1 @@
-docker/dockerfile:experimental
+docker.io/library/ubuntu:22.04
