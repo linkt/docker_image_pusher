@@ -1,2 +1,1 @@
 gimling/huawei-ascend-910b-ubuntu:18-py39-0.0.6-base
-gimling/huawei-ascend-910b-ubuntu:18-py39-0.0.5-base
