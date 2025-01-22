@@ -1,1 +1,1 @@
-xrwang8/ascend-k8sdeviceplugin:v6.0.RC2
+gimling/huawei-ascend-910b-ubuntu:18-py39-0.0.6-base
