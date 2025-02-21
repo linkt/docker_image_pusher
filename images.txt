@@ -1,1 +1,2 @@
---platform=linux/arm64 gimling/huawei-ascend-910b-ubuntu:18-py39-cann8
+node:20.16.0
+pytorch/pytorch:2.3.1-cuda12.1-cudnn8-devel
