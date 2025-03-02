@@ -1,1 +1,1 @@
-python:3.11
+hariag/llama:1.0
