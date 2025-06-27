@@ -1,1 +1,2 @@
-kubeovn/kube-ovn:v1.11.3-arm --platform=arm64
+kubeovn/kube-ovn:v1.11.3-arm 
+--platform=linux/arm64
