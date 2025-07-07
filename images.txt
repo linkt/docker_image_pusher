@@ -1,1 +1,2 @@
-kubeovn/kube-ovn:v1.11.3-arm
+library/ubuntu:18.04
+--platform=linux/arm64
