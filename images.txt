@@ -1,2 +1,1 @@
---platform=linux/arm64 library/ubuntu:18.04
---platform=linux/arm64 alpine:latest
+--platform=linux/arm64 kubeovn/kube-ovn:v1.11.3
