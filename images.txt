@@ -1,1 +1,1 @@
---platform=linux/arm64 kubeovn/kube-ovn:v1.11.3
+kubeovn/kube-ovn:69ad9d0573262033d290b3f085cd91ab29a0fc3648a709b0ba5f9116ea4ec401
