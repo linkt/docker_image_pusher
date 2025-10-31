@@ -1,1 +1,1 @@
---platform=linux/arm64 k8s.gcr.io/sig-storage/csi-node-driver-registrar:v2.3.0
+deepseek-ocr-webui:latest
